@@ -1,0 +1,182 @@
+[
+  {
+    "brand": "Mercedes",
+    "vehicleModel": "Cruze",
+    "year": 2023,
+    "price": 49292.9,
+    "licensePlate": "HR7IOBO",
+    "color": "Amarelo",
+    "renavam": "76473846632"
+  },
+  {
+    "brand": "Nissan",
+    "vehicleModel": "C-Class",
+    "year": 2002,
+    "price": 32956.85,
+    "licensePlate": "LK7W4GS",
+    "color": "Azul",
+    "renavam": "28916032792"
+  },
+  {
+    "brand": "Toyota",
+    "vehicleModel": "Altima",
+    "year": 2012,
+    "price": 31494.94,
+    "licensePlate": "IU27V4Y",
+    "color": "Cinza",
+    "renavam": "60341632977"
+  },
+  {
+    "brand": "Hyundai",
+    "vehicleModel": "Cruze",
+    "year": 2016,
+    "price": 19932.33,
+    "licensePlate": "66N1GWY",
+    "color": "Amarelo",
+    "renavam": "34533555833"
+  },
+  {
+    "brand": "Audi",
+    "vehicleModel": "A4",
+    "year": 2011,
+    "price": 49039.33,
+    "licensePlate": "R9TJM04",
+    "color": "Roxo",
+    "renavam": "52409759534"
+  },
+  {
+    "brand": "Toyota",
+    "vehicleModel": "Corolla",
+    "year": 2000,
+    "price": 14488.69,
+    "licensePlate": "1WAXH8N",
+    "color": "Laranja",
+    "renavam": "67643905484"
+  },
+  {
+    "brand": "Nissan",
+    "vehicleModel": "Altima",
+    "year": 2004,
+    "price": 27318.1,
+    "licensePlate": "N39BH81",
+    "color": "Branco",
+    "renavam": "56533543493"
+  },
+  {
+    "brand": "Audi",
+    "vehicleModel": "A4",
+    "year": 2011,
+    "price": 31497.23,
+    "licensePlate": "Z095GIO",
+    "color": "Prata",
+    "renavam": "05741163466"
+  },
+  {
+    "brand": "Hyundai",
+    "vehicleModel": "C-Class",
+    "year": 1995,
+    "price": 13045.22,
+    "licensePlate": "4DLSLMM",
+    "color": "Laranja",
+    "renavam": "91891307321"
+  },
+  {
+    "brand": "Ford",
+    "vehicleModel": "Altima",
+    "year": 2023,
+    "price": 42227.42,
+    "licensePlate": "Q2RPOLV",
+    "color": "Branco",
+    "renavam": "81900363741"
+  },
+  {
+    "brand": "Chevrolet",
+    "vehicleModel": "Civic",
+    "year": 2020,
+    "price": 35673.18,
+    "licensePlate": "JF87ZMA",
+    "color": "Preto",
+    "renavam": "73746482910"
+  },
+  {
+    "brand": "Honda",
+    "vehicleModel": "Fit",
+    "year": 2019,
+    "price": 24500.57,
+    "licensePlate": "TU6LQF9",
+    "color": "Vermelho",
+    "renavam": "87436723821"
+  },
+  {
+    "brand": "BMW",
+    "vehicleModel": "X5",
+    "year": 2018,
+    "price": 50000.75,
+    "licensePlate": "W5O7RTD",
+    "color": "Azul",
+    "renavam": "29183472643"
+  },
+  {
+    "brand": "Volkswagen",
+    "vehicleModel": "Golf",
+    "year": 2017,
+    "price": 29700.64,
+    "licensePlate": "K8T5XME",
+    "color": "Prata",
+    "renavam": "15783902476"
+  },
+  {
+    "brand": "Hyundai",
+    "vehicleModel": "Elantra",
+    "year": 2021,
+    "price": 37000.89,
+    "licensePlate": "F5B6KHN",
+    "color": "Cinza",
+    "renavam": "74826392741"
+  },
+  {
+    "brand": "Ford",
+    "vehicleModel": "Fusion",
+    "year": 2022,
+    "price": 42000.35,
+    "licensePlate": "L6G3VHZ",
+    "color": "Preto",
+    "renavam": "92837462348"
+  },
+  {
+    "brand": "Tesla",
+    "vehicleModel": "Model 3",
+    "year": 2021,
+    "price": 55000.50,
+    "licensePlate": "Y9B2OWQ",
+    "color": "Branco",
+    "renavam": "11284723498"
+  },
+  {
+    "brand": "Chevrolet",
+    "vehicleModel": "Camaro",
+    "year": 2015,
+    "price": 48000.44,
+    "licensePlate": "M4D5B9S",
+    "color": "Vermelho",
+    "renavam": "52837482933"
+  },
+  {
+    "brand": "Honda",
+    "vehicleModel": "Civic",
+    "year": 2013,
+    "price": 32000.11,
+    "licensePlate": "P3Q8SLW",
+    "color": "Verde",
+    "renavam": "38472638461"
+  },
+  {
+    "brand": "Toyota",
+    "vehicleModel": "Hilux",
+    "year": 2019,
+    "price": 62000.23,
+    "licensePlate": "R1Z9HTJ",
+    "color": "Azul",
+    "renavam": "56734219283"
+  }
+]
